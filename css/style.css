@@ -214,6 +214,10 @@ dt {
     background-color: #fff;
 }
 
+._small {
+    font-size: .9em;
+}
+
 /* ============
 top
 =============== */
@@ -428,6 +432,7 @@ article {
 .sub_title {
     border-bottom: 1px solid #333;
     margin-bottom: 15px;
+    font-size: 1.1em;
 }
 
 article dl dd {
